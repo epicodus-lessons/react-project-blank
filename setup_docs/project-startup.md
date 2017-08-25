@@ -29,7 +29,6 @@
 
   ```
   "scripts": {
-    "test": "jest --watchAll",
     "start": "webpack && webpack-dev-server",
     "lint": "eslint src/** src/**/**; exit 0"
   },
