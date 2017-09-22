@@ -90,7 +90,7 @@
   export default reducer;
   ```
 
-* .eslintrc.json
+* .eslintrc
 
 ```
 ...
